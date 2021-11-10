@@ -10,10 +10,10 @@
   },
   "dependencies": {
     "immstruct": "^1.4.0",
-    "omniscient": "^3.1.0",
+    "omniscient": "^4.0.0",
     "jsx-loader": "^0.12.2",
     "react-hot-loader": "^1.2.4",
-    "webpack": "^1.7.3",
+    "webpack": "^3.0.0",
     "webpack-dev-server": "^1.7.0"
   }
 }
